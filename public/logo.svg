@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Circular Brand Background with Soft Drop Shadow -->
+  <circle cx="50" cy="50" r="48" fill="#16a34a"/>
+  <circle cx="50" cy="50" r="44" fill="#22c55e"/>
+  
+  <!-- Inner Warm Badge -->
+  <circle cx="50" cy="52" r="38" fill="#ffffff" stroke="#fef08a" stroke-width="2"/>
+
+  <!-- Friendly Mascot Head: Gappu the Owl/Bird Teacher -->
+  <!-- Body -->
+  <ellipse cx="50" cy="56" rx="26" ry="24" fill="#15803d"/>
+  <ellipse cx="50" cy="58" rx="20" ry="18" fill="#dcfce7"/>
+
+  <!-- Big Friendly Eyes -->
+  <circle cx="41" cy="48" r="9" fill="#ffffff" stroke="#0f172a" stroke-width="2.5"/>
+  <circle cx="59" cy="48" r="9" fill="#ffffff" stroke="#0f172a" stroke-width="2.5"/>
+  <!-- Iris -->
+  <circle cx="43" cy="48" r="4.5" fill="#0f172a"/>
+  <circle cx="57" cy="48" r="4.5" fill="#0f172a"/>
+  <!-- Catchlight -->
+  <circle cx="41.5" cy="46" r="1.5" fill="#ffffff"/>
+  <circle cx="55.5" cy="46" r="1.5" fill="#ffffff"/>
+
+  <!-- Eyeglasses Bridge -->
+  <path d="M49 48 Q50 46 51 48" stroke="#0f172a" stroke-width="2" fill="none"/>
+
+  <!-- Friendly Beak -->
+  <polygon points="50,52 45,58 55,58" fill="#f59e0b" stroke="#b45309" stroke-width="1.5" stroke-linejoin="round"/>
+
+  <!-- Cheerful Rosy Cheeks -->
+  <ellipse cx="34" cy="56" rx="4" ry="2.5" fill="#fca5a5" opacity="0.7"/>
+  <ellipse cx="66" cy="56" rx="4" ry="2.5" fill="#fca5a5" opacity="0.7"/>
+
+  <!-- Cute Scholar Cap / Indian Pagdi Accent -->
+  <path d="M30 38 L50 28 L70 38 L50 44 Z" fill="#ea580c" stroke="#9a3412" stroke-width="1.5"/>
+  <rect x="42" y="38" width="16" height="4" rx="2" fill="#f59e0b"/>
+  <!-- Tassel -->
+  <path d="M50 35 Q66 36 67 44" stroke="#fcd34d" stroke-width="2" fill="none"/>
+  <circle cx="67" cy="44" r="2" fill="#fcd34d"/>
+
+  <!-- Speech bubble badge -->
+  <g transform="translate(62, 16) scale(0.65)">
+    <rect x="0" y="0" width="46" height="26" rx="8" fill="#f59e0b" stroke="#b45309" stroke-width="2"/>
+    <polygon points="12,25 6,34 20,25" fill="#f59e0b"/>
+    <text x="23" y="17" fill="#ffffff" font-size="12" font-family="'Plus Jakarta Sans', sans-serif" font-weight="bold" text-anchor="middle">BOLO</text>
+  </g>
+</svg>

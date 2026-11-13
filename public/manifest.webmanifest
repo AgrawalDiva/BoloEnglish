@@ -1,0 +1,40 @@
+{
+  "name": "Bolo English - Apni Bhasha Mein English Seekho",
+  "short_name": "Bolo English",
+  "description": "Gamified English learning application for India with explanations in Hinglish, Hindi, Haryanvi, Bhojpuri, Awadhi, and Rajasthani.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#16a34a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Daily Challenge",
+      "url": "/?tab=daily",
+      "description": "Solve today's 5 English practice questions"
+    },
+    {
+      "name": "Speaking Practice",
+      "url": "/?tab=practice",
+      "description": "Practise speaking with audio microphone"
+    }
+  ]
+}
